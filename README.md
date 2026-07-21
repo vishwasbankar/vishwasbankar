@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwas-bankar-3695b4334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-portfolio-vishaws.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f4858?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:bankarvishwas1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Pune,%20Maharashtra-informational?style=for-the-badge"/>
 </p>
@@ -19,6 +20,7 @@ I enjoy building scalable full-stack systems and intelligent AI solutions using 
 - 🎓 Diploma in Information Technology, SVERI's College of Engineering, Pandharpur (84.28%)
 - 🌱 Currently exploring advanced **RAG pipelines**, **vector search**, and **agentic AI systems**
 - 💼 Open to **Fresher / Internship** roles in Full Stack & AI Development
+- 🌐 Portfolio: [my-portfolio-vishaws.vercel.app](https://my-portfolio-vishaws.vercel.app/)
 - 📫 Reach me at **bankarvishwas1@gmail.com**
 
 ---
@@ -135,10 +137,22 @@ I enjoy building scalable full-stack systems and intelligent AI solutions using 
 
 ---
 
+### 📈 GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwasbankar&theme=react-dark&hide_border=true&area=true" alt="Vishwas's GitHub Contribution Graph" width="100%"/>
+</p>
+
+<p align="center"><i>💡 If this doesn't render (some accounts block third-party API images), your live contribution graph is always visible on your
+<a href="https://github.com/vishwasbankar" target="_blank">GitHub profile</a> page.</i></p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishwasbankar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/vishwas-bankar-3695b4334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://my-portfolio-vishaws.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2f4858?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:bankarvishwas1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 

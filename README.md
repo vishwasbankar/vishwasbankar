@@ -149,18 +149,7 @@ I enjoy building scalable full-stack systems and intelligent AI solutions using 
 
 ---
 
-### 🧩 LeetCode Activity
 
-<p align="center">
-  <a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vishwas_bankar_12?ext=heatmap" alt="Vishwas's LeetCode Heatmap" width="100%"/>
-  </a>
-</p>
-
-<p align="center"><i>💡 If the card above doesn't render, check out my live solving activity directly on
-<a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank">LeetCode</a>.</i></p>
-
----
 
 ### 📫 Let's Connect
 

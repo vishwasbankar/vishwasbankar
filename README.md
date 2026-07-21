@@ -111,15 +111,26 @@ I enjoy building scalable full-stack systems and intelligent AI solutions using 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 At a Glance
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🚀 Projects Shipped</b><br/>3 Production-Grade AI Apps</td>
+    <td align="center"><b>🎓 CGPA</b><br/>8.20 / 10</td>
+    <td align="center"><b>💼 Internship</b><br/>Technowings (React Dev)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 Core Focus</b><br/>Full Stack + GenAI / RAG</td>
+    <td align="center"><b>📜 Certifications</b><br/>React · MongoDB · IBM Prompt Eng.</td>
+    <td align="center"><b>🏆 Hackathons</b><br/>SIH 2025 Internal Round Qualifier</td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwasbankar&show_icons=true&theme=default&hide_border=true" alt="Vishwas's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasbankar&hide_border=true" alt="Vishwas's GitHub Streak" height="165"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB-2f4858?style=for-the-badge"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasbankar&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20GenAI-LLMs%20%7C%20RAG%20%7C%20LangChain-2f4858?style=for-the-badge"/>
 </p>
 
 ---

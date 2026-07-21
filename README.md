@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwas-bankar-3695b4334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://my-portfolio-vishaws.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2f4858?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:bankarvishwas1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Pune,%20Maharashtra-informational?style=for-the-badge"/>
 </p>
@@ -148,11 +149,25 @@ I enjoy building scalable full-stack systems and intelligent AI solutions using 
 
 ---
 
+### 🧩 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vishwas_bankar_12?ext=heatmap" alt="Vishwas's LeetCode Heatmap" width="100%"/>
+  </a>
+</p>
+
+<p align="center"><i>💡 If the card above doesn't render, check out my live solving activity directly on
+<a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank">LeetCode</a>.</i></p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwas-bankar-3695b4334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://my-portfolio-vishaws.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2f4858?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/vishwas_bankar_12/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:bankarvishwas1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
